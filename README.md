@@ -2,4 +2,4 @@
 Conway's Game of Life with my own variation. Includes options for drawing and randomizing.
 
 
-![alt text](https://i.imgur.com/r1FdUu7.gifv)
+![alt text](https://thumbs.gfycat.com/WellwornAdmirableLeafhopper-size_restricted.gif)
