@@ -3,3 +3,6 @@ Conway's Game of Life with my own variation. Includes options for drawing and ra
 
 
 ![alt text](https://thumbs.gfycat.com/WellwornAdmirableLeafhopper-size_restricted.gif)
+
+
+![alt text](https://thumbs.gfycat.com/PlumpUnequaledAoudad-size_restricted.gif)
