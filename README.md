@@ -1,5 +1,5 @@
 # Game-of-Undead-Life
-Conway's Game of Life with my own variation. Includes options for drawing and randomizing.
+Conway's Game of Life with my own variation. Includes options for drawing and randomizing. https://d-cannell.github.io/Game-of-Undead-Life/
 
 Here is the base program:
 ![alt text](https://thumbs.gfycat.com/WellwornAdmirableLeafhopper-size_restricted.gif)
